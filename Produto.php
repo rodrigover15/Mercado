@@ -1,7 +1,7 @@
 <?php
 namespace Elaborata\Mercado\Produtos;
 /**
-  clsasa ENtity
+  class ENtity
  * 
  */
 class Produto
